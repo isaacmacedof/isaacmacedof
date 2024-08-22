@@ -6,7 +6,7 @@ Alguns fatos sobre mim:
 - 👨‍💼 Sou Desenvolvedor FullStack.
 - 👨‍💻 Estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/) na 27.
 - 📚 Eu curso Tecnologo em Banco de Dados - [PUC - Minas]((https://www.pucminas.br/)).
-https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png
+
 ## 💻 Technologies
 
 <div align="center" style="display: inline_block"><br>
