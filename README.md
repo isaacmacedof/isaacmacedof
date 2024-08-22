@@ -2,10 +2,10 @@
 
 Alguns fatos sobre mim:
 
-- 🟢🟡🔵 Sou de Salvador, na Bahia. Ele/Dele.
+- 🐈‍⬛🐦‍⬛👤 Sou de Salvador, na Bahia. Ele/Dele.
 - 👨‍💼 Sou Desenvolvedor FullStack.
-- 👨‍💻 Estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/) na 27.
-- 📚 Eu curso Tecnologo em Banco de Dados - [PUC - Minas]((https://www.pucminas.br/)).
+- 👨‍💻 Estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/) formado na turma 28.
+- 📚 Atualmente cursando Tecnologo em Banco de Dados - [PUC - Minas]((https://www.pucminas.br/)).
 
 ## 💻 Technologies
 
