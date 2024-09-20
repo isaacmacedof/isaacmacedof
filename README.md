@@ -35,5 +35,7 @@ Front-End | Back-End | MySQL | DevOps
 </div>
 <br/><br/>
 
-  ![isaacmacedof's Stats](https://github-readme-stats.vercel.app/api?username=isaacmacedof&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-  ![isaacmacedof's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacmacedof&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<div align="center" margin="20px">
+  <img src="https://github-readme-stats.vercel.app/api?username=isaacmacedof&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="145" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacmacedof&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="145" alt="languages graph"  />
+</div>
